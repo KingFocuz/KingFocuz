@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingFocuz
 - 👀 I’m interested in Web/App development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me effiongvictor007@gmail.com
 
